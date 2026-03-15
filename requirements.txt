@@ -1,0 +1,11 @@
+pypsa>=0.26
+highspy>=1.5
+linopy>=0.3
+pandas>=2.0
+numpy>=1.24
+xarray>=2023.1
+matplotlib>=3.7
+plotly>=5.15
+ipywidgets>=8.0
+openpyxl>=3.1
+jupyterlab>=4.0
