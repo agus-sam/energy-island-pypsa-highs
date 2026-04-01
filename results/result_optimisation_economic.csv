@@ -1,0 +1,6 @@
+Project_name,Project_Description,Currency,Discount_rate,Lifetime,Technology,Capacity,Energy_MWh,EP_ratio_h,Capacity_Factor,Energy_production,Delivered_energy,Charging_MWh,Charging_from_Wind_MWh,Charging_from_Solar_MWh,Charging_from_Natural Gas_MWh,Charging_from_Biodiesel_MWh,Charging_from_Biomethane_MWh,Curtailed_energy,CAPEX,OPEX,Fuel_cost,Degradation_rate,Annual_cycles,PPA_price,Price_post_PPA,latitude,longitude,CO2_emitted_ton
+,,EUR,0.06,25,Wind,64.74,,,0.3406,193170.64,185741.0,0.0,0.0,0.0,0.0,0.0,0.0,28992.11,77685666.0,2783736.0,0.0,1,,,,,,0.0
+,,,0.06,25,Solar,29.93,,,0.1122,29416.82,28285.4,0.0,0.0,0.0,0.0,0.0,0.0,4259.44,17958432.0,448961.0,0.0,1,,,,,,0.0
+,,,0.06,25,Natural Gas,36.79,,,0.2775,89443.26,86003.13,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27595833.0,735889.0,6168501.0,1,,,,,,43827.2
+,,,0.06,15,BESS,1.56,3.46,2.223,0.0425,579.94,557.64,610.46,535.16,74.75,0.56,0.0,0.0,0.0,1012220.0,18682.0,0.0,2,209.4,,,,,0.0
+,,,0.06,,Portofolio,,,,,312610.66,300587.17,610.46,535.16,74.75,0.56,0.0,0.0,33251.55,124252151.0,3987268.0,6168501.0,0,,,,,,43827.2

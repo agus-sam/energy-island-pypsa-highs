@@ -1,0 +1,15 @@
+Sources,Max_Capacity_MW,Investment_per_MW,O&M_per_MW_yr,Lifetime,CO2_per_MWh,Fuel_Cost,Efficiency,Merit_Order,Storage_MWh,brand_technologies
+Wind,200,1200000,43000,25,0,0,1,1,0,SkyBlade 2MW
+Solar,200,600000,15000,25,0,0,1,1,0,SunForge 400 Wp
+Biomass,10,2800000,95000,25,0.03,45,0.3,2,0,EarthBurn Neo X
+Biogas,10,2200000,80000,20,0.05,60,0.4,2,0,BioGasPulse X
+Geothermal,4,7000000,150000,30,0.04,0,1,1,0,DeepCore X
+Hydro,4,2500000,40000,40,0,0,1,1,0,WaveDrive X
+WTE,4,6500000,200000,25,0.35,0,0.25,2,0,Reclaim X
+BESS,200,250000,12000,15,0,0,0.95,3,180000,PowerCell X
+PHS,10,1500000,20000,50,0,0,0.87,3,10000,GravityVault X
+Hydrogen,100,1800000,50000,20,0,0,0.35,3,10000,H2Nova X
+Natural Gas,100,750000,20000,25,0.49,40,0.58,4,0,FlexBurn X
+Biodiesel,100,850000,25000,25,0.07,120,0.4,4,0,GreenFlame X
+Grid,100,1000,0,40,0.32,100,1,5,0,DE_grid
+Biomethane,100,750000,20000,25,0.03,65,0.45,4,0,BioMethane X
