@@ -21,11 +21,7 @@ Results from the notebook can be explored in the standalone interactive dashboar
 ```
 energy-island-pypsa/
 ├── Energy_Island_PyPSA_HiGHS.ipynb   ← main notebook (run this)
-├── index.html                         ← interactive dashboard (7 sections)
 ├── README.md
-├── requirements.txt
-├── LICENSE                            ← MIT
-├── .gitignore
 ├── src/                               ← all Python source modules
 │   ├── __init__.py
 │   ├── constants.py                   ← model assumptions (single source of truth)
@@ -38,11 +34,9 @@ energy-island-pypsa/
 │   └── visualization.py               ← publication-quality chart methods
 ├── data/
 │   ├── inputs/                        ← geographic_setup.csv, resource_assessment.csv
-│   ├── time_series/                   ← demand.csv, wind_prod.csv, solar_prod.csv, ...
-│   └── README.md                      ← column specifications
-├── results/                           ← solver outputs (.xlsx, .json, .csv)
-│   └── README.md
-└── .github/workflows/ci.yml           ← syntax check CI
+│   └──time_series/                   ← demand.csv, wind_prod.csv, solar_prod.csv, ...
+└── results/                           ← solver outputs (.xlsx, .json, .csv)
+
 ```
 
 ---
